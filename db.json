@@ -1,0 +1,136 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "name": "Cavalos Selvagens",
+      "author": "Ahmed Sayed",
+      "pages": 250,
+      "price": 260,
+      "isbn": "080417447",
+      "category": "Fiction",
+      "photoSrc": "photo1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "pages": 180,
+      "price": 150,
+      "isbn": "9783273565",
+      "category": "Fiction",
+      "photoSrc": "photo2.jpg"
+    },
+    {
+      "id": "3",
+      "name": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "pages": 336,
+      "price": 200,
+      "isbn": "006110081",
+      "category": "Fiction",
+      "photoSrc": "photo1.jpg"
+    },
+    {
+      "id": "4",
+      "name": "1984",
+      "author": "George Orwell",
+      "pages": 328,
+      "price": 180,
+      "isbn": "978041524",
+      "category": "Science Fiction",
+      "photoSrc": "photo2.jpg"
+    },
+    {
+      "id": "5",
+      "name": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "pages": 224,
+      "price": 190,
+      "isbn": "9780319488",
+      "category": "Fiction",
+      "photoSrc": "photo1.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "pages": 279,
+      "price": 220,
+      "isbn": "9780149518",
+      "category": "Romance",
+      "photoSrc": "photo2.jpg"
+    },
+    {
+      "id": "7",
+      "name": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "pages": 300,
+      "price": 250,
+      "isbn": "9784792227",
+      "category": "Fantasy",
+      "photoSrc": "photo1.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Harry Potter and the Philosopher's Stone",
+      "author": "J.K. Rowling",
+      "pages": 332,
+      "price": 280,
+      "isbn": "97847573",
+      "category": "Fantasy",
+      "photoSrc": "photo1.jpg"
+    },
+    {
+      "id": "9",
+      "name": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "pages": 1178,
+      "price": 500,
+      "isbn": "97808640157",
+      "category": "Fantasy",
+      "photoSrc": "photo2.jpg"
+    },
+    {
+      "id": "10",
+      "name": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "pages": 454,
+      "price": 320,
+      "isbn": "9780344278",
+      "category": "Mystery",
+      "photoSrc": "photo1.jpg"
+    },
+    {
+      "id": "11",
+      "name": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "pages": 430,
+      "price": 300,
+      "isbn": "9780794505",
+      "category": "Classics",
+      "photoSrc": "photo1.jpg"
+    },
+    {
+      "id": "12",
+      "name": "The Alchemist",
+      "author": "Paulo Coelho",
+      "pages": 197,
+      "price": 180,
+      "isbn": "9780062007",
+      "category": "Fiction",
+      "photoSrc": "photo2.jpg"
+    }
+  ],
+  "cart": [
+    {
+      "id": "3",
+      "name": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "pages": 336,
+      "price": 200,
+      "isbn": "006110081",
+      "category": "Fiction",
+      "photoSrc": "photo1.jpg"
+    }
+  ]
+}
